@@ -14,6 +14,8 @@ This is a **Next.js 15** Login authentication system that integrates with a back
 ✅ **Glassmorphism UI** with Tailwind CSS  
 
 
+<img width="959" alt="Image" src="https://github.com/user-attachments/assets/24afa26f-cdbc-4659-8030-743a4c9dab32" />
+
 ## 📌 Installation
 ### **Clone the Repository**
 
